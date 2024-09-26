@@ -10,7 +10,7 @@ header:
 My academic research falls into two main areas: scientific computing, mainly
 to be able to solve physics problems involving partial differential equations.
 More specifically, I'm very interested in computational fluid dynamics.
-The second area is applications of Machine Learning to scientific computing.
+The second area is applications of Machine Learning for scientific computing.
 
 <nbsp>
 
