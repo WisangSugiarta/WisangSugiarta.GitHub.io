@@ -64,7 +64,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : profile.png # Open Graph/Twitter default site image
+og_image                 : profile.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Wisang Sugiarta"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD Student at the University of Colorado"
   location         :
   employer         :
