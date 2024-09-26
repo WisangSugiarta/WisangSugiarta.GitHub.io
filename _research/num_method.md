@@ -1,5 +1,5 @@
 ---
-title: "Conflict event data"
+title: "Numerical Methods"
 layout: single-portfolio
 excerpt: "<img src='/images/research/num_method.jpg' alt=''>"
 collection: research
