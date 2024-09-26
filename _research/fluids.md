@@ -1,5 +1,5 @@
 ---
-title: "Fluids"
+title: "Computational Fluids"
 layout: single-portfolio
 excerpt: "<img src='/images/research/fluid.png' alt=''>"
 collection: research
