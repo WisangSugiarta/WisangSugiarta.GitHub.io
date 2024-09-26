@@ -5,9 +5,12 @@ main:
     
   - title: "Publications"
     url: /publications/
-
-  - title: "Projects"
+    
+  -title: "Software"
     url: /software/
     
+  - title: "Projects"
+    url: /research/
+    
   - title: "CV"
-    url: /cv/
+    url: /files/pdf/Williams CV.pdf
