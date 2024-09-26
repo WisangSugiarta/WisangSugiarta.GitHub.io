@@ -1,5 +1,5 @@
 ---
-title: "Measurement"
+title: "Machine Learning"
 layout: single-portfolio
 excerpt: "<img src='/images/research/ml.jpg' alt=''>"
 collection: research
