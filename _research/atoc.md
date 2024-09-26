@@ -9,7 +9,8 @@ header:
 ---
 
 In these projects, I'm interested in working on computational methods
-and ML techniques to better predict high impact works. 
+and ML techniques to better predict high impact weather events. I'm 
+especially interested in weather in the front range of Colorado.
 
 ## Article
 
