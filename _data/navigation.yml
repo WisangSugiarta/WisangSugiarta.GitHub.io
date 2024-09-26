@@ -6,7 +6,7 @@ main:
   - title: "Publications"
     url: /publications/
     
-  -title: "Software"
+  - title: "Software"
     url: /software/
     
   - title: "Projects"
