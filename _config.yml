@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wisang Sugiarta"
 title_separator          : "-"
 name                     : &name "Wisang Sugiarta"
-description              : &description "PhD Student at University of Colorado"
+description              : &description "University of Colorado"
 url                      : 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wisangsugiarta/wisangsugiarta.github.io"
